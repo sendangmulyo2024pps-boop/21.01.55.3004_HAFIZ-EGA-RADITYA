@@ -1,0 +1,7 @@
+git init
+git add .
+git commit -m "Initial commit - Clinic Management (php-crud-api + demo frontend)"
+# buat repo baru di GitHub bernama: 21.01.55.3004_HAFIZ EGA RADITYA
+git remote add origin https://github.com/<GITHUB-HAFIZ-EGA-RADITYA>/21.01.55.3004_HAFIZ%20EGA%20RADITYA.git
+git branch -M main
+git push -u origin main
